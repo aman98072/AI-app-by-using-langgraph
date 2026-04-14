@@ -1,0 +1,19 @@
+
+
+# ----------------------
+# Environment Files
+# ----------------------
+.env
+.env.*
+!.env.example
+.claude
+
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.env/
+
+.vscode/
